@@ -50,7 +50,7 @@ pip install psutil mouse
 
 1. **Download** the script: 
    ```bash
-   git clone 
+   git clone https://github.com/karollooool/Rocket-League-local-lagswitch.git
    ```
 
 2. **Install dependencies**:
