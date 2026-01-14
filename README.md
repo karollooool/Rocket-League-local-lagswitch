@@ -9,7 +9,7 @@ A Windows-based lag switch using **process suspension** - the most reliable meth
 ## 🔬 **Technical Overview**
 
 ### Process Suspension Method
-This lag switch works by **completely freezing** the Rocket League process using Windows API calls: 
+This lag switch works by **completely freezing** the Rocket League process using Windows API calls:
 
 ```python
 # Suspend all game threads - COMPLETE FREEZE
