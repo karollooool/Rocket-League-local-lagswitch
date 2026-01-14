@@ -50,7 +50,7 @@ pip install psutil mouse
    ```cmd
    # Right-click Command Prompt → "Run as administrator"
    cd /path/to/script
-   python rl_lagswitch_suspend.py
+   python lagswitch.py
    ```
 
 ## 🎮 **Usage Guide**
