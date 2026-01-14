@@ -192,7 +192,7 @@ High Risk:   Repeated pattern usage in online matches
 
 ```
 rl-lagswitch-suspend/
-├── rl_lagswitch_suspend.py    # Main script
+├── lagswitch.py    # Main script
 ├── README.md                  # Documentation  
 ├── requirements.txt           # Dependencies
 └── LICENSE                    # Usage terms
