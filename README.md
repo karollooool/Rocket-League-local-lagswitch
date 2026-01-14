@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/OS-Windows-blue.svg)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
 [![Method](https://img.shields.io/badge/Method-Process%20Suspension-orange.svg)](#how-it-works)
 
 A Windows-based lag switch using **process suspension** - the most reliable method for freezing game network communication.
