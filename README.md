@@ -6,18 +6,6 @@
 
 A Windows-based lag switch using **process suspension** - the most reliable method for freezing game network communication.
 
-## ⚠️ **CRITICAL WARNING**
-
-> **DANGER**:  This tool is for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**
-> 
-> - Using lag switches in online games is **CHEATING** and **UNETHICAL**
-> - Violates Rocket League's Terms of Service 
-> - **WILL RESULT IN PERMANENT BANS** if detected
-> - Ruins the gaming experience for other players
-> - May violate local laws regarding unfair gaming practices
-> 
-> **YOU HAVE BEEN WARNED** - Use at your own risk.  Author assumes no responsibility. 
-
 ## 🔬 **Technical Overview**
 
 ### Process Suspension Method
@@ -218,14 +206,9 @@ Ccontributions should focus on:
 - 📖 Documentation updates
 - 🛡️ Safety enhancements
 
-**NOT acceptable**:
-- Features for competitive advantage
-- Anti-detection mechanisms
-- Automation for repeated use
-
 ## 📜 **License**
 
-This software is proprietary with restrictive terms. See [LICENSE](LICENSE) file. 
+See [LICENSE](LICENSE) file. 
 
 **TL;DR**: Educational use only - no distribution, modification, or commercial use. 
 
@@ -240,10 +223,23 @@ USERS ARE RESPONSIBLE FOR COMPLIANCE WITH:
 - Ethical gaming standards
 - Platform-specific rules
 ```
-
+**Author**: [karollooool](https://github.com/karollooool)  
+**Documentation**: Generated with ChatGPT assistance
 ---
 
 <div align="center">
+
+## ⚠️ **CRITICAL WARNING**
+
+> **DANGER**:  This tool is for **EDUCATIONAL AND RESEARCH PURPOSES ONLY**
+> 
+> - Using lag switches in online games is **CHEATING** and **UNETHICAL**
+> - Violates Rocket League's Terms of Service 
+> - **WILL RESULT IN PERMANENT BANS** if detected
+> - Ruins the gaming experience for other players
+> - May violate local laws regarding unfair gaming practices
+> 
+> **YOU HAVE BEEN WARNED** - Use at your own risk.  Author assumes no responsibility. 
 
 **🎮 Game Responsibly - Research Ethically 🎮**
 
