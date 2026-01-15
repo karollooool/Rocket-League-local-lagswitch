@@ -67,7 +67,6 @@ pip install psutil mouse
 ```
 ============================================================
   Rocket League Process Lag Switch
-  METHOD: Process Suspension (Most Reliable)
 ============================================================
 
 [INFO] Keybind: Mouse Side Button (X2)
@@ -123,16 +122,6 @@ kernel32.ResumeThread(handle)
 # Close thread handle (cleanup)
 kernel32.CloseHandle(handle)
 ```
-
-### Process vs Firewall Methods
-
-| Aspect | Process Suspension | Firewall Blocking |
-|--------|-------------------|-------------------|
-| **Reliability** | 🟢 100% | 🟡 95% |
-| **Speed** | 🟢 Instant | 🟡 ~100ms |
-| **Detection Risk** | 🟢 Very Low | 🟡 Medium |
-| **Resource Usage** | 🟢 Minimal | 🟡 Moderate |
-| **Cleanup** | 🟢 Automatic | 🟡 Manual rules |
 
 ## 🛠️ **Troubleshooting**
 
