@@ -155,28 +155,6 @@ taskkill /f /im RocketLeague.exe
 Ctrl+Shift+Esc → Find RocketLeague.exe → End Task
 ```
 
-## 🚨 **Safety & Ethics**
-
-### Recommended Usage
-- **✅ Single-player testing only**
-- **✅ Network research purposes**  
-- **✅ Understanding Windows APIs**
-- **✅ Educational demonstrations**
-
-### Prohibited Usage
-- **❌ Online competitive matches**
-- **❌ Ranked gameplay**
-- **❌ Tournaments or leagues**
-- **❌ Any multiplayer scenarios**
-- **❌ Streaming/recording for content**
-
-### Detection Risks
-```
-Low Risk:     Process suspension appears normal to system
-Medium Risk:  Unusual network patterns may be logged
-High Risk:   Repeated pattern usage in online matches
-```
-
 ## 📁 **File Structure**
 
 ```
