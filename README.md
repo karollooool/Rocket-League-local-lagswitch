@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/OS-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![Method](https://img.shields.io/badge/Method-Process%20Suspension-orange.svg)](#how-it-works)
+[![Educational](https://img.shields.io/badge/Purpose-Educational-green.svg)](https://github.com/yourusername/rl-lagswitch-suspend)
 
 A Windows-based lag switch using **process suspension** - the most reliable method for freezing game network communication.
 
@@ -211,7 +212,5 @@ USERS ARE RESPONSIBLE FOR COMPLIANCE WITH:
 **🎮 Game Responsibly - Research Ethically 🎮**
 
 *Understanding technology ≠ Abusing technology*
-
-[![Educational](https://img.shields.io/badge/Purpose-Educational-green.svg)](https://github.com/yourusername/rl-lagswitch-suspend)
 
 </div>
