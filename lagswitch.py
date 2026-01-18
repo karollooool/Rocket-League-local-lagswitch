@@ -30,7 +30,7 @@ class ProcessLagSwitch:
         
         print("\n" + "="*60)
         print("  Rocket League Process Lag Switch")
-        print("  METHOD: Process Suspension (Most Reliable)")
+        print("  Confuse niggas with lags")
         print("="*60)
         print(f"\n[INFO] Keybind: Mouse Side Button (X2)")
         print("[INFO] Searching for Rocket League process...")
